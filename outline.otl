@@ -33,4 +33,3 @@ todo 2010-04-13
 	:,,B    Make body text start with a space
 	:,,b    Make body text start with a colon and space
 	:,\,w 	Save changes and return to insert mode
-
