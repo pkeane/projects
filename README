@@ -1,2 +1,6 @@
 a home for my project notes (todos) in outline form
 
+two shell script:
+
+bin/aa -this pulls latest changes from git repo and opens the outline
+bin/zz [comment] -this pushes changes to git repo
