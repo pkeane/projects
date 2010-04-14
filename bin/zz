@@ -2,7 +2,7 @@
 
 msg=$@
 
-if [ -z $msg  ]; then
+if [ -z "$msg"  ]; then
 	msg="update"
 fi
 
