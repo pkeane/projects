@@ -1,4 +1,6 @@
 projects
+	fixes to itsprop admin
+		see who has submitted
 	asian studies uploads
 		move videos to harpo
 		install http base server
@@ -13,6 +15,10 @@ projects
 		get form site up
 	stv
 		meeting wed 2010-04-14
+		get up and running
+			need eligible voter list
+			eid auth
+			try deploying to PyPE
 	goverment quiz tool
 		JSON front end 
 		db/spreadsheet backend
