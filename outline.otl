@@ -1,14 +1,20 @@
 projects
-	fixes to itsprop admin
-		see who has submitted
+	create deptgrants site
+		just move itsprop code
+		u/p dg_u
 	asian studies uploads
 		move videos to harpo
 		install http base server
 		use dase to pull
 	diia
 		dase fixes
+			bulk delete att-vals!
 			get rid of multiples key-vals
 			disallow multiple key-vals (done)
+			editing messes up order of search
+			fetch enclosure NOT checking for dups
+			recent searches broken in safari (chrome too?)
+			what?: "manage not a search page"
 	tgdp
 		replace map on from page
 	hoti
@@ -16,6 +22,7 @@ projects
 	stv
 		meeting wed 2010-04-14
 		get up and running
+			once and once only
 			need eligible voter list
 			eid auth
 			try deploying to PyPE
