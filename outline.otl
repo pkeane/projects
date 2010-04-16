@@ -17,6 +17,7 @@ projects
 			what?: "manage not a search page"
 	tgdp
 		replace map on from page
+		fix javascript clicks
 	hoti
 		get form site up
 	stv
