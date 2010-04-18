@@ -1,4 +1,7 @@
 projects
+	dase bug
+		lots of tiff records in media_file w/o files
+		need to check against filesystem & reindex
 	create deptgrants site
 		just move itsprop code
 		u/p dg_u
