@@ -1,4 +1,17 @@
 projects
+	eejh
+		add websites to resources
+		sort resources
+		archive organization:
+			usage for desc page: resource_archive
+			short name is also sort by
+			image uses short name as parent
+			image uses "image" as val fro usage
+		talk to suloni & kathy abt country page maps
+		work on dase pull for country pages
+		newspaper feature:
+			just like other feature, but
+			big list of images
 	look at google maps
 		for tgdp and others
 	dase bug
