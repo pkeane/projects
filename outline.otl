@@ -1,14 +1,9 @@
 projects
+	look at google maps
+		for tgdp and others
 	dase bug
 		lots of tiff records in media_file w/o files
 		need to check against filesystem & reindex
-	create deptgrants site
-		just move itsprop code
-		u/p dg_u
-	asian studies uploads
-		move videos to harpo
-		install http base server
-		use dase to pull
 	diia
 		dase fixes
 			bulk delete att-vals!
@@ -37,3 +32,10 @@ todo
 	look at, play wiht R
 notes [use this to point to dated note]
 	2010-04-13 vimoutliner
+	fixed mysql-python problem on archlinux
+		downloaded mysql-python from sourceforge
+		did py setup install
+		moved egg not virtualenv
+		also fixed on Mac by doing:
+			ln -s /opt/local/include/mysql5/mysql \
+			/opt/local/include/mysql
