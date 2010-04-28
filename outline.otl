@@ -1,10 +1,4 @@
 projects
-	dase bug
-		lots of tiff records in media_file w/o files
-		need to check against filesystem & reindex
-	create deptgrants site
-		just move itsprop code
-		u/p dg_u
 	asian studies uploads
 		move videos to harpo
 		install http base server
@@ -33,7 +27,12 @@ projects
 	goverment quiz tool
 		JSON front end 
 		db/spreadsheet backend
+	dase bug
+		lots of tiff records in media_file w/o files
+		need to check against filesystem & reindex
 todo 
 	look at, play wiht R
+	study jekyll, static site generator
+		http://github.com/mojombo/jekyll
 notes [use this to point to dated note]
 	2010-04-13 vimoutliner
