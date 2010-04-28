@@ -1,8 +1,23 @@
 projects
-	asian studies uploads
-		move videos to harpo
-		install http base server
-		use dase to pull
+	eejh
+		need slideshow on homepage
+		add websites to resources
+		sort resources
+		archive organization:
+			usage for desc page: resource_archive
+			short name is also sort by
+			image uses short name as parent
+			image uses "image" as val fro usage
+		talk to suloni & kathy abt country page maps
+		work on dase pull for country pages
+		newspaper feature:
+			just like other feature, but
+			big list of images
+	look at google maps
+		for tgdp and others
+	dase bug
+		lots of tiff records in media_file w/o files
+		need to check against filesystem & reindex
 	diia
 		dase fixes
 			bulk delete att-vals!
@@ -27,12 +42,16 @@ projects
 	goverment quiz tool
 		JSON front end 
 		db/spreadsheet backend
-	dase bug
-		lots of tiff records in media_file w/o files
-		need to check against filesystem & reindex
 todo 
 	look at, play wiht R
 	study jekyll, static site generator
 		http://github.com/mojombo/jekyll
 notes [use this to point to dated note]
 	2010-04-13 vimoutliner
+	fixed mysql-python problem on archlinux
+		downloaded mysql-python from sourceforge
+		did py setup install
+		moved egg not virtualenv
+		also fixed on Mac by doing:
+			ln -s /opt/local/include/mysql5/mysql \
+			/opt/local/include/mysql
