@@ -1,16 +1,29 @@
 projects
 	eejh
+		prev/next links in gallery
+			move w/in country
 		need slideshow on homepage
 		archive organization:
 			usage for desc page: resource_archive
 			short name is also sort by
+			archives will have multiple images
 			image uses short name as parent
-			image uses "image" as val fro usage
+			image uses "image" as val for usage
 		talk to suloni & kathy abt country page maps
 		work on dase pull for country pages
 		newspaper feature:
+			initial (first pass):
 			just like other feature, but
 			big list of images
+		meeting 4/29
+			emily will resize photos to 400x400
+			pk will make front pix clickable to go to gallery for that pic
+			check:
+				christine country rollover & click
+				small thumbs country name on rollover
+			pk work on maps page -- two tabs (see email)
+			think abt newspaper-reader a la ol bookreader
+				look at code for open library book reader
 	look at google maps
 		for tgdp and others
 	dase bug
